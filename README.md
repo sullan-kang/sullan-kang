@@ -8,7 +8,7 @@ I'm a third-year undergraduate student in Computer Science and Urban Studies at 
 - In the database class, I worked on a project about the COVID-19 vaccination record tracking. I designed the ER & Relational model and built the IBM DB2 SQL database.
 - In the GIS class, I am working on a research project about the rural-urban transportation connectivity using network analysis.
 
-📚 Some of my favourite courses from the past are [Discrete Structures](https://www.mcgill.ca/study/2018-2019/courses/math-240) (Winter 2019), [Programming Challenges](https://www.mcgill.ca/study/2019-2020/courses/comp-321) (Fall 2019), [Cities in the Modern World](https://www.mcgill.ca/study/2019-2020/courses/geog-217) (Winter 2020), [Principles of Geospatial Web](https://www.mcgill.ca/study/2019-2020/courses/geog-384) (Winter 2021), and [Software Design](https://www.mcgill.ca/study/2020-2021/courses/comp-303) (Fall 2021).
+📚 Some of my favourite courses from the past are [Discrete Structures](https://www.mcgill.ca/study/2018-2019/courses/math-240) (Winter 2019), [Programming Challenges](https://www.mcgill.ca/study/2019-2020/courses/comp-321) (Fall 2019), [Cities in the Modern World](https://www.mcgill.ca/study/2019-2020/courses/geog-217) (Winter 2020), [Principles of Geospatial Web](https://www.mcgill.ca/study/2019-2020/courses/geog-384) (Winter 2020), [Software Design](https://www.mcgill.ca/study/2020-2021/courses/comp-303) (Fall 2020), and [Fundamentals of Computer Graphics](https://www.mcgill.ca/study/2020-2021/courses/comp-557) (Fall 2020).
 
 👯 I’m looking to collaborate on an Open Source project about GIS, or a project that can benefit from GIS techniques ✨
 
