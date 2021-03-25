@@ -1,4 +1,4 @@
-## Hi there, I'm Lana 👋
+### Hi there, I'm Lana 👋
 
 I'm a third-year undergraduate student in Computer Science and Urban Studies at McGill University. My passion revolves around Human-Computer Interaction with a focus on Geospatial Information and User Experience. I aspire to be a computer scientist who can make people's daily lives better. 
 
