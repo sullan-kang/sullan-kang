@@ -4,7 +4,7 @@ I'm a third-year undergraduate student in Computer Science and Urban Studies at 
 
 🔭 I’m currently working on building my [website](https://sullan-kang.github.io). Stay tuned!
 
-🌱 This winter semester, I’m currently learning about [Theory of Computation](https://www.mcgill.ca/study/2020-2021/courses/comp-330), [Database Systems](https://www.mcgill.ca/study/2020-2021/courses/comp-421), [Socio-economic Applications of GIS](https://www.mcgill.ca/study/2020-2021/courses/geog-307), and [Introductory Statistics](https://www.mcgill.ca/study/2020-2021/courses/math-204) on different Regression models.
+🌱 This winter semester, I’m currently learning about [Theory of Computation](https://www.mcgill.ca/study/2020-2021/courses/comp-330), [Database Systems](https://www.mcgill.ca/study/2020-2021/courses/comp-421), [Socio-economic Applications of GIS](https://www.mcgill.ca/study/2020-2021/courses/geog-307), and [Principles of Statistics](https://www.mcgill.ca/study/2020-2021/courses/math-204).
 - In the database class, I worked on a project about the COVID-19 vaccination record tracking. I designed the ER & Relational model and built the IBM DB2 database using SQL, as well as a Java command-line program for altering database information.
 - In the GIS class, I am working on a research project about the rural-urban public transit connectivity using network analysis.
 
