@@ -1,16 +1,13 @@
 ### Hi there, I'm Lana 👋
 
-I'm a third-year undergraduate student in Computer Science and Urban Studies at McGill University. My passion revolves around Human-Computer Interaction with a focus on Geospatial Information and User Experience. I aspire to be a computer scientist who can make people's daily lives better. 
+I'm a fourth-year undergraduate student in Computer Science and Urban Studies at McGill University. My passion revolves around Human-Computer Interaction with a focus on Geospatial Information and User Experience. I aspire to be a computer scientist who can make people's daily lives better. I dream of travelling around the world & making a super unique map too.
 
-🔭 I’m currently working on building my [website](https://sullan-kang.github.io). Stay tuned!
+🌱 I'm currently contributing to an Open Source [urban sustainability dashboard](https://github.com/MSSI-urban/Sus) project from the McGill Sustainability Systems Initiative! For coursework, I am studying *[Algorithm Design](https://www.mcgill.ca/study/2021-2022/courses/comp-360)*, *[Network Science](https://www.mcgill.ca/study/2021-2022/courses/comp-599)*, *[Sustainable Residential Development](https://www.mcgill.ca/study/2021-2022/courses/arch-517)*, and *[Integrated Management Essentials](https://www.mcgill.ca/study/2021-2022/courses/intg-201)* this fall. I want to study more about cities, software and intelligent systems until I graduate in December 2022.
 
-🌱 This winter semester, I’m currently learning about [Theory of Computation](https://www.mcgill.ca/study/2020-2021/courses/comp-330), [Database Systems](https://www.mcgill.ca/study/2020-2021/courses/comp-421), [Socio-economic Applications of GIS](https://www.mcgill.ca/study/2020-2021/courses/geog-307), and [Principles of Statistics](https://www.mcgill.ca/study/2020-2021/courses/math-204).
-- In the database class, I worked on a project about the COVID-19 vaccination record tracking. I designed the ER & Relational model and built the IBM DB2 database using SQL, as well as a Java command-line program for altering database information.
-- In the GIS class, I am working on a research project about the rural-urban public transit connectivity using network analysis.
+💖 Some of my favourite courses from the past are *[Programming Challenges](https://www.mcgill.ca/study/2019-2020/courses/comp-321)* (Fall '19), *[Cities in the Modern World](https://www.mcgill.ca/study/2019-2020/courses/geog-217)* (Winter '20), ***[Principles of Geospatial Web](https://www.mcgill.ca/study/2019-2020/courses/geog-384)*** (Winter '20), and *[Software Design](https://www.mcgill.ca/study/2020-2021/courses/comp-303)* (Fall '20)! They were all very engaging and helped me explore my interests. <3
 
-📚 Some of my favourite courses from the past are [Discrete Structures](https://www.mcgill.ca/study/2018-2019/courses/math-240) (Winter 2019), [Programming Challenges](https://www.mcgill.ca/study/2019-2020/courses/comp-321) (Fall 2019), [Cities in the Modern World](https://www.mcgill.ca/study/2019-2020/courses/geog-217) (Winter 2020), [Principles of Geospatial Web](https://www.mcgill.ca/study/2019-2020/courses/geog-384) (Winter 2020), [Software Design](https://www.mcgill.ca/study/2020-2021/courses/comp-303) (Fall 2020), and [Fundamentals of Computer Graphics](https://www.mcgill.ca/study/2020-2021/courses/comp-557) (Fall 2020).
-
-👯 I’m looking to collaborate on an Open Source project about GIS, or a project that can benefit from GIS techniques ✨
+With all this, at the moment I'm studying [React](https://github.com/sullan-kang/react-study) on the side. 
+This GitHub also contains archive of my old [Android](https://github.com/sullan-kang/Quack) and [Web](https://github.com/sullan-kang/cs-mcgill-renovation) projects.
 
 📫 You can reach me via:
 - Twitter and Email (on the left sidebar)
